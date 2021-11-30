@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "205668642167",
+    "firebase_url": "https://testadb-1baff.firebaseio.com",
+    "project_id": "testadb-1baff",
+    "storage_bucket": "testadb-1baff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205668642167:android:db9857d9d541a193158572",
+        "android_client_info": {
+          "package_name": "com.example.mykino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205668642167-kjqgm0p0brjjp88hjk7iif7tldii8etc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDkEqU_3Nj2MEAp40lUDHkUtHTDSJmtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205668642167-kjqgm0p0brjjp88hjk7iif7tldii8etc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205668642167:android:8b546db95498fd0f158572",
+        "android_client_info": {
+          "package_name": "com.example.photoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205668642167-kjqgm0p0brjjp88hjk7iif7tldii8etc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDkEqU_3Nj2MEAp40lUDHkUtHTDSJmtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205668642167-kjqgm0p0brjjp88hjk7iif7tldii8etc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">MyKino</string>
+    <string name="fromphoto">ΤΡΑΒΗΞΤΕ ΦΩΤΟΓΡΑΦΙΑ</string>
+    <string name="select">ΕΠΙΛΕΞΤΕ ΤΑ ΝΟΥΜΕΡΑ</string>
+    <string name="random">ΤΥΧΑΙΑ ΕΠΙΛΟΓΗ ΑΡΙΘΜΩΝ</string>
+    <string name="phototext">"Τράβηξτε φωτογραφία τον πίνακα των κληρώσεων"</string>
+    <string name="selecttext">"Επιλέξτε εσείς τα νούμερα των κληρώσεων"</string>
+    <string name="randomtext">Σας βγάζει τυχαία νούμερα χωρίς να εχουν προκύψει απο κάποια επεξεργασία</string>
+    <string name="photobtn">ΒΓΑΛΤΕ ΦΩΤΟ</string>
+    <string name="analyzebtn">ΑΝΑΛΥΣΗ</string>
+    <string name="selectbtn">ΕΠΙΛΟΓΗ ΑΡΙΘΜΩΝ</string>
+    <string name="clearbtn">ΚΑΘΑΡΙΣΜΟΣ</string>
+    <string name="todo">TODO</string>
+    <string name="numbers">Επιλέξτε πόσα νούμερα θα παίξετε:</string>
+    <string name="numbersa">Επιλέξτε τα νούμερα των προηγούμενων κληρώσεων</string>
+    <string name="randombtn">Επιλογή τυχαίων αριθμών</string>
+    <string name="selectn">Επιλέξτε πόσους αριθμούς θα παίξετε</string>
+    <string name="show1">Οι αριθμοί σας θα εμφανιστούν εδώ</string>
+    <string name="row1">Συνδιασμός 1: </string>
+    <string name="row2">Συνδιασμός 2: </string>
+    <string name="row3">Συνδιασμός 3: </string>
+    <string name="row4">Συνδιασμός 4: </string>
+    <string name="row5">Συνδιασμός 5: </string>
+    <string name="randtext">Εμφάνιση αριθμών με βάση στατιστικών προηγούμενων κληρώσεων</string>
+    <string name="selectxt">Επιλέξτε πόσα νούμερα θα παίξετε</string>
+    <string name="randomjocker">Επιλέξτε πόσα νούμερα θα παίξετε</string>
+    <string name="randbtn">Επιλογή συνδιασμών</string>
+    <string name="monatext">Επιλέξτε αν η προηγούμενες κληρώσεις ήταν Μονά/Ζυγά/Ισοπαλία</string>
+    <string name="monabtn">Υπολογισμος</string>
+    <string name="monarandom">"Εμφανίζει μια τυχαία επιλογή χωρίς να έχει προκύψει από κάποια επεξεργασία "</string>
+    <string name="randombtn1">τυχαια επιλογη</string>
+    <string name="stilestxt">Επιλέξτε σε ποια στήλη κληρώθηκαν τα περισσότερα νούμερα στις προηγούμενες κληρώσεις</string>
+    <string name="stilesbtn">υπολογισμος</string>
+    <string name="randomstilestxt">Επιλογή τυχαίας στήλης χωρίς να έχει προκύψει από κάποια επεξεργασία</string>
+    <string name="randomstiles">τυχαια επιλογη</string>
+    <string name="apot">Θέλετε να συνεχίσετε να επιλέγετε τα αποτελέσματα των επόμενων κληρώσεων για μεγαλύτερο ποσοστό επιτυχίας η εμφάνιση αποτελεσμάτων;</string>
+    <string name="result">Οι αριθμοί σας είναι:</string>
+    <string name="error">Αυτή η δυνατότητα βρίσκεται ακόμα σε ανάπτυξη</string>
+    <string name="prosoxi">ΠΡΟΣΟΧΗ</string>
+    <string name="odigies1">Αυτή η εφαρμογή είναι καθαρά για να σας δίνει συνδιασμούς που προέρχονται από την είσοδο δεδομένων προηγούμενων κληρώσεων και δεν υπόσχεται σε καμία περίπτωση σίγουρα κέρδη.Χρησιμοποιήστε την για να αυξήσετε σε κάποιο βαθμό τις πιθανότητες επιτύχιας σας.</string>
+    <string name="odigies2">ΚΙΝΟ/ΜΟΝΑ ΖΥΓΑ/ΣΤΗΛΕΣ</string>
+    <string name="odigies4">Επιλέξτε τα νούμερα μέχρι και 5 προηγούμενων κληρώσεων στο ΚΙΝΟ και 10 στις ΣΤΕΙΛΕΣ/ΜΟΝΑ ΖΥΓΑ.Στην συνέχεια πατήστε ΑΠΟΤΕΛΕΣΜΑΤΑ.</string>
+
+    <string name="rate_dialog_title">Βαθμολογίστε</string>
+    <string name="rate_dialog_message">Βαθμολογίστε μας ώστε να γίνουμε καλύτεροι!</string>
+    <string name="rate_dialog_ok">ΒΑΘΜΟΛΟΓΙΣΤΕ ΤΩΡΑ</string>
+    <string name="rate_dialog_cancel">ΒΑΘΜΟΛΟΓΙΣΤΕ ΣΕ ΛΙΓΟ</string>
+    <string name="rate_dialog_no">ΜΗΝ ΒΑΘΜΟΛΟΓΙΣΕΤΕ</string>
+    <string name="admobid">ca-app-pub-6149536744689909~1849606514</string>
+    <string name="bannerid">ca-app-pub-6149536744689909/5649358527</string>
+    <string name="bannerid2">ca-app-pub-6149536744689909/3083469584</string>
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="numbers1">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+    <string-array name="numbers2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="mona">
+        <item>ΜΟΝΑ</item>
+        <item>ΖΥΓΑ</item>
+        <item>ΙΣΟΠΑΛΙΑ</item>
+
+    </string-array>
+
+    <string-array name="stiles">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>
